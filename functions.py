@@ -72,10 +72,7 @@ def group_by_type(items):
 
     return result
 
-
-
         
-
 
 #Проверка первой задачи
 print(calculate(1, 2, 3, 4, operation="add"))    
